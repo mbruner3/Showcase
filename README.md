@@ -1,2 +1,2 @@
 # Showcase
-A compelation of my best work.
+A compilation of my best work.
